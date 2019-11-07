@@ -31,7 +31,7 @@ public:
 	float Carre(float fltX);
 
 	//rho et theta
-	float Rho(Cpoint ptO);
+	float Rho(Cpoint pt1);
 	float Theta(Cpoint ptO);
 	
 };
