@@ -14,6 +14,9 @@ int main()
 	ptPoint.Show();
 
 	//exo 2
+
+	std::cout << "X: " << ptPoint.getX() << std::endl;
+	std::cout << "Y: " << ptPoint.getY() << std::endl;
 	
 	return 0;
 }
