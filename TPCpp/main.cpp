@@ -1,5 +1,6 @@
 #include <iostream>
 #include "CPoint.h"
+#include<cmath>
 
 int main()
 {
@@ -17,6 +18,9 @@ int main()
 
 	std::cout << "X: " << ptPoint.getX() << std::endl;
 	std::cout << "Y: " << ptPoint.getY() << std::endl;
+
+	//exo 3
+
 	
 	return 0;
 }
